@@ -1,4 +1,4 @@
-id=miracast_prop
+id=enable_miracast
 name=Enable Miracast
 version=v1.0
 versionCode=1

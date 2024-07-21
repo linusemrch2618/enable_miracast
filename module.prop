@@ -1,0 +1,6 @@
+id=miracast_prop
+name=Enable Miracast
+version=v1.0
+versionCode=1
+author=linusemrch2618
+description=Sets persist.debug.wfd.enable to 1 using system.prop.
